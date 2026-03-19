@@ -1,9 +1,9 @@
-# DevOps Deployment Pipeline - Ansh
+# DevOps Deployment Pipeline - Aakarsh
 
 ## 👤 Student Details
 
-- **Name:** Ansh Negi  
-- **SAP ID:** 500121103  
+- **Name:** Aakarsh Panwar 
+- **SAP ID:** 500120493
 - **Batch:** 4  
 
 ## 📌 Project Overview
